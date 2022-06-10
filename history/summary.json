@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 75,
-    "timeWeek": 81,
+    "timeDay": 62,
+    "timeWeek": 72,
     "timeMonth": 77,
     "timeYear": 95,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 191,
-    "timeDay": 210,
-    "timeWeek": 201,
-    "timeMonth": 188,
+    "timeDay": 177,
+    "timeWeek": 188,
+    "timeMonth": 191,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-03-01": 34
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 338,
-    "timeDay": 221,
-    "timeWeek": 277,
-    "timeMonth": 243,
-    "timeYear": 319,
+    "time": 337,
+    "timeDay": 411,
+    "timeWeek": 289,
+    "timeMonth": 253,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2022-03-24": 21,
       "2021-11-29": 21
@@ -84,7 +84,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.94%",
+    "uptime": "20.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 52,
+      "2022-06-10": 54,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -458,8 +459,7 @@
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
-      "2021-06-11": 1440,
-      "2021-06-10": 1440
+      "2021-06-11": 1440
     }
   }
 ]
