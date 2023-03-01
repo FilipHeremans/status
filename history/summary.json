@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 110,
-    "timeWeek": 171,
-    "timeMonth": 129,
+    "timeDay": 94,
+    "timeWeek": 173,
+    "timeMonth": 121,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 70,
-    "timeWeek": 171,
-    "timeMonth": 177,
+    "timeDay": 171,
+    "timeWeek": 160,
+    "timeMonth": 168,
     "timeYear": 199,
-    "dailyMinutesDown": {
-      "2022-03-01": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 307,
-    "timeDay": 100,
-    "timeWeek": 222,
-    "timeMonth": 242,
+    "timeDay": 234,
+    "timeWeek": 194,
+    "timeMonth": 239,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2022-07-08": 517,
@@ -82,10 +80,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.01%",
+    "uptime": "14.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -93,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-28": 50,
+      "2023-03-01": 55,
+      "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
@@ -456,8 +455,7 @@
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
-      "2022-03-02": 1440,
-      "2022-03-01": 1440
+      "2022-03-02": 1440
     }
   }
 ]
