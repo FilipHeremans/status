@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 187,
-    "timeWeek": 161,
-    "timeMonth": 129,
+    "timeDay": 188,
+    "timeWeek": 160,
+    "timeMonth": 128,
     "timeYear": 117,
-    "dailyMinutesDown": {
-      "2023-07-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 71,
-    "timeWeek": 160,
-    "timeMonth": 189,
+    "timeDay": 99,
+    "timeWeek": 163,
+    "timeMonth": 187,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 284,
-    "timeDay": 118,
-    "timeWeek": 287,
-    "timeMonth": 271,
+    "timeDay": 238,
+    "timeWeek": 286,
+    "timeMonth": 269,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-06-21": 16,
@@ -84,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.02%",
+    "uptime": "13.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -95,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-20": 295,
+      "2023-07-21": 50,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -458,8 +457,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   }
 ]
