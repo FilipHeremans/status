@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 181,
-    "timeWeek": 172,
+    "timeDay": 179,
+    "timeWeek": 166,
     "timeMonth": 134,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-07-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 99,
-    "timeWeek": 163,
-    "timeMonth": 187,
-    "timeYear": 207,
+    "timeDay": 28,
+    "timeWeek": 141,
+    "timeMonth": 181,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   },
   {
@@ -46,12 +44,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 284,
-    "timeDay": 238,
-    "timeWeek": 286,
-    "timeMonth": 269,
+    "timeDay": 170,
+    "timeWeek": 261,
+    "timeMonth": 254,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2023-06-21": 16,
@@ -95,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 1059,
+      "2023-07-22": 49,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -458,8 +457,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   }
 ]
