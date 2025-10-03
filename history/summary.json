@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 106,
-    "timeDay": 101,
-    "timeWeek": 110,
-    "timeMonth": 102,
+    "timeDay": 88,
+    "timeWeek": 106,
+    "timeMonth": 101,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-09-02": 61,
@@ -26,19 +26,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 531,
-    "timeWeek": 281,
-    "timeMonth": 222,
+    "timeDay": 307,
+    "timeWeek": 256,
+    "timeMonth": 218,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 3
     }
   },
   {
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 213,
-    "timeWeek": 303,
-    "timeMonth": 277,
+    "time": 315,
+    "timeDay": 325,
+    "timeWeek": 319,
+    "timeMonth": 282,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-05-09": 16
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 1396,
+      "2025-10-03": 1399,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
