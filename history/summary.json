@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 135,
-    "timeDay": 115,
-    "timeWeek": 70,
-    "timeMonth": 92,
+    "timeDay": 84,
+    "timeWeek": 73,
+    "timeMonth": 91,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-12-12": 19,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 174,
-    "timeWeek": 165,
-    "timeMonth": 185,
+    "timeDay": 203,
+    "timeWeek": 188,
+    "timeMonth": 182,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -52,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 202,
-    "timeWeek": 228,
-    "timeMonth": 249,
+    "timeDay": 332,
+    "timeWeek": 230,
+    "timeMonth": 251,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2025-10-10": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -95,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-09": 233,
+      "2026-10-10": 218,
+      "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -458,8 +457,7 @@
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
-      "2025-10-11": 1440,
-      "2025-10-10": 1440
+      "2025-10-11": 1440
     }
   }
 ]
